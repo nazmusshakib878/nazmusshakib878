@@ -1,59 +1,126 @@
-<h1 align="center">Hi, I'm Md. Nazmus Shakib</h1>
-<h3 align="center">Backend Developer | Laravel Enthusiast | Exploring AI Engineering</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:7C3AED&text=Md.%20Nazmus%20Shakib&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20CSE%20Student%20%E2%80%A2%20AI%20Explorer&descAlignY=59&descSize=18&animation=fadeIn" alt="Md. Nazmus Shakib — Backend Developer" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+reliable+backend+systems+with+Laravel;Designing+clean+REST+APIs+and+data-driven+applications;Exploring+ML%2C+LLMs%2C+RAG%2C+and+AI+agents" alt="Professional focus" />
+</div>
 
 <p align="center">
-  <a href="mailto:nazmusshakib335@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/nazmusshakib878?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-181717?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nazmusshakib878&style=flat-square&color=2563eb&label=Profile+views" alt="Profile views" />
+  <a href="mailto:nazmusshakib335@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/nazmusshakib878?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nazmusshakib878&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" />
 </p>
 
-## About Me
+## Developer Profile
 
-I'm a final-year Computer Science and Engineering student from Khulna, Bangladesh. I enjoy turning real-world requirements into reliable backend systems, REST APIs, and maintainable web applications.
-
-- Building with **PHP, Laravel, MySQL, and REST APIs**
-- Learning **Python, machine learning, LLM applications, and AI agents**
-- Interested in **clean architecture, authentication, testing, and scalable APIs**
-- Currently developing an **AI-powered Smart Campus and Student Success Platform**
-- Open to **backend roles, internships, and meaningful collaborations**
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,c,cpp,java,js,html,css,git,github,vscode&perline=13" alt="Technology stack" />
-</p>
-
-## Featured Projects
-
-| Project | What it does | Core technologies |
-|---|---|---|
-| [AI Smart Campus System](https://github.com/nazmusshakib878/CSE4204-8A-T07-ai-smart-campus-system) | AI-powered campus and student-success platform for smarter academic support. | Laravel, MySQL, REST API, JavaScript |
-| [Securex](https://github.com/nazmusshakib878/Securex) | Security-service platform for managing CCTV services, bookings, users, and customer messages. | Laravel, PHP, MySQL, SCSS |
-| [Library Management System](https://github.com/nazmusshakib878/Library-management-project) | Web application for organizing common library operations and records. | Laravel, Blade, MySQL |
-| [Student Management System](https://github.com/nazmusshakib878/student-management-system) | PHP application for managing student information and academic records. | PHP, MySQL, HTML, CSS |
-
-## Current Focus
-
-```text
-Backend Engineering  REST API design, authentication, RBAC, testing
-AI Engineering       ML foundations, LLM apps, RAG, tool use, agents
-Engineering Practice Git workflows, CI/CD, deployment, clean code
+```yaml
+name: Md. Nazmus Shakib
+location: Khulna, Bangladesh
+education: Final-year B.Sc. in Computer Science and Engineering
+primary_focus: Backend Engineering
+current_stack: [PHP, Laravel, MySQL, REST APIs]
+exploring: [Python, Machine Learning, LLM Applications, RAG, AI Agents]
+open_to: [Backend Roles, Internships, Open-source Collaboration]
 ```
 
-## GitHub Activity
+I turn real-world requirements into maintainable backend systems and practical web applications. My current work combines **Laravel application architecture**, **relational database design**, and **API development**, while I build a strong foundation in AI engineering.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nazmusshakib878&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmusshakib878&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" />
-</p>
+## Engineering Focus
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nazmusshakib878/nazmusshakib878/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Backend Systems</h3>
+      Laravel architecture, REST API design, authentication, authorization, RBAC, validation, and database-backed workflows.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Quality & Delivery</h3>
+      Clean code, Git workflows, unit and feature testing, API documentation, CI/CD fundamentals, and deployment practices.
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI Engineering</h3>
+      Python and ML foundations, prompt engineering, LLM applications, retrieval-augmented generation, tool use, and agents.
+    </td>
+  </tr>
+</table>
+
+## Technology Stack
+
+<div align="center">
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python&theme=dark" alt="Backend and data technologies" />
+
+**Languages & Web**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" alt="Programming and web technologies" />
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools" />
+
+</div>
+
+## Selected Work
+
+<div align="center">
+  <a href="https://github.com/nazmusshakib878/CSE4204-8A-T07-ai-smart-campus-system">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&repo=CSE4204-8A-T07-ai-smart-campus-system&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED" alt="AI Smart Campus System" />
+  </a>
+  <a href="https://github.com/nazmusshakib878/Securex">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&repo=Securex&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED" alt="Securex" />
+  </a>
+  <a href="https://github.com/nazmusshakib878/Library-management-project">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&repo=Library-management-project&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED" alt="Library Management System" />
+  </a>
+  <a href="https://github.com/nazmusshakib878/student-management-system">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&repo=student-management-system&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED" alt="Student Management System" />
+  </a>
+</div>
+
+<details>
+  <summary><strong>Project highlights</strong></summary>
+  <br />
+
+  - **AI Smart Campus System:** AI-powered campus and student-success platform built around Laravel, MySQL, REST APIs, and a modern frontend.
+  - **Securex:** CCTV and security-service management platform with public services, booking workflows, customer management, and an admin dashboard.
+  - **Library Management System:** Web application for organizing books, members, records, and common library operations.
+  - **Student Management System:** PHP and MySQL application for managing student information and academic records.
+</details>
+
+## GitHub Insights
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazmusshakib878&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&title_color=2563EB&icon_color=7C3AED" alt="GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=nazmusshakib878&hide_border=true&theme=transparent&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazmusshakib878&bg_color=transparent&color=64748B&line=2563EB&point=7C3AED&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazmusshakib878/nazmusshakib878/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazmusshakib878/nazmusshakib878/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/nazmusshakib878/nazmusshakib878/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
+
+## Currently Leveling Up
+
+- Production-ready Laravel architecture and reusable service patterns
+- Automated unit and feature testing for backend applications
+- Secure API design, versioning, RBAC, and documentation
+- Python-based ML workflows and practical LLM applications
+- RAG pipelines, tool-enabled assistants, and AI-agent fundamentals
 
 ---
 
-<p align="center">
-  <strong>Let's build something useful together.</strong><br />
-  <a href="mailto:nazmusshakib335@gmail.com">nazmusshakib335@gmail.com</a>
-</p>
+<div align="center">
+  <h3>Open to building useful products and learning with strong engineering teams.</h3>
+  <p>
+    <a href="mailto:nazmusshakib335@gmail.com">Start a conversation</a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/nazmusshakib878?tab=repositories">Explore my repositories</a>
+  </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1D4ED8,100:7C3AED" alt="Footer" />
+</div>
