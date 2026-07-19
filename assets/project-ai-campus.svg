@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-label="AI Smart Campus System">
+  <rect x="1" y="1" width="558" height="178" rx="12" fill="#0f172a" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="48" cy="48" r="24" fill="#1d4ed8"/><path d="M38 50h20M42 42h12M43 58h10" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <text x="84" y="47" fill="#60a5fa" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">AI Smart Campus System</text>
+  <text x="84" y="70" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="12">FEATURED PROJECT</text>
+  <text x="28" y="108" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="14">AI-powered campus and student-success platform</text>
+  <text x="28" y="131" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="14">for smarter academic support and services.</text>
+  <text x="28" y="160" fill="#93c5fd" font-family="Consolas,monospace" font-size="12">Laravel  /  Vue  /  MySQL  /  REST API  /  AI</text>
+</svg>

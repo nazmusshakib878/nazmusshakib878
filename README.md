@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:nazmusshakib335@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
   <a href="https://github.com/nazmusshakib878?tab=repositories"><img height="28" src="./assets/projects-badge.svg" alt="View GitHub projects" /></a>
-  <img src="https://img.shields.io/badge/Available_for-Opportunities-16A34A?style=for-the-badge&amp;logo=checkmarx&amp;logoColor=white" alt="Available for opportunities" />
+  <img src="./assets/available.svg" alt="Available for opportunities" />
 </p>
 
 ## Developer Profile
@@ -65,16 +65,16 @@ I turn real-world requirements into maintainable backend systems and practical w
 
 <div align="center">
   <a href="https://github.com/nazmusshakib878/CSE4204-8A-T07-ai-smart-campus-system">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&amp;repo=CSE4204-8A-T07-ai-smart-campus-system&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563EB&amp;icon_color=7C3AED" alt="AI Smart Campus System" />
+    <img width="48%" src="./assets/project-ai-campus.svg" alt="AI Smart Campus System" />
   </a>
   <a href="https://github.com/nazmusshakib878/Securex">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&amp;repo=Securex&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563EB&amp;icon_color=7C3AED" alt="Securex" />
+    <img width="48%" src="./assets/project-securex.svg" alt="Securex" />
   </a>
   <a href="https://github.com/nazmusshakib878/Library-management-project">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&amp;repo=Library-management-project&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563EB&amp;icon_color=7C3AED" alt="Library Management System" />
+    <img width="48%" src="./assets/project-library.svg" alt="Library Management System" />
   </a>
   <a href="https://github.com/nazmusshakib878/student-management-system">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&amp;repo=student-management-system&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563EB&amp;icon_color=7C3AED" alt="Student Management System" />
+    <img width="48%" src="./assets/project-student.svg" alt="Student Management System" />
   </a>
 </div>
 
@@ -91,7 +91,7 @@ I turn real-world requirements into maintainable backend systems and practical w
 ## GitHub Insights
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazmusshakib878&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github&amp;include_all_commits=true&amp;title_color=2563EB&amp;icon_color=7C3AED" alt="GitHub statistics" />
+  <img width="49%" src="./assets/github-statistics.svg" alt="GitHub statistics" />
   <img width="49%" src="https://streak-stats.demolab.com?user=nazmusshakib878&amp;hide_border=true&amp;theme=transparent&amp;ring=2563EB&amp;fire=7C3AED&amp;currStreakLabel=2563EB" alt="GitHub contribution streak" />
 </div>
 
