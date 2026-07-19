@@ -1,13 +1,13 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:7C3AED&text=Md.%20Nazmus%20Shakib&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20CSE%20Student%20%E2%80%A2%20AI%20Explorer&descAlignY=59&descSize=18&animation=fadeIn" alt="Md. Nazmus Shakib — Backend Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0F172A,50:1D4ED8,100:7C3AED&amp;text=Md.%20Nazmus%20Shakib&amp;fontColor=FFFFFF&amp;fontSize=44&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%E2%80%A2%20CSE%20Student%20%E2%80%A2%20AI%20Explorer&amp;descAlignY=59&amp;descSize=18&amp;animation=fadeIn" alt="Md. Nazmus Shakib  -  Backend Developer" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+reliable+backend+systems+with+Laravel;Designing+clean+REST+APIs+and+data-driven+applications;Exploring+ML%2C+LLMs%2C+RAG%2C+and+AI+agents" alt="Professional focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2800&amp;pause=900&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+reliable+backend+systems+with+Laravel;Designing+clean+REST+APIs+and+data-driven+applications;Exploring+ML%2C+LLMs%2C+RAG%2C+and+AI+agents" alt="Professional focus" />
 </div>
 
 <p align="center">
-  <a href="mailto:nazmusshakib335@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/nazmusshakib878?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nazmusshakib878&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" />
+  <a href="mailto:nazmusshakib335@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/nazmusshakib878?tab=repositories"><img height="28" src="./assets/projects-badge.svg" alt="View GitHub projects" /></a>
+  <img src="https://img.shields.io/badge/Available_for-Opportunities-16A34A?style=for-the-badge&amp;logo=checkmarx&amp;logoColor=white" alt="Available for opportunities" />
 </p>
 
 ## Developer Profile
@@ -49,15 +49,15 @@ I turn real-world requirements into maintainable backend systems and practical w
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python&theme=dark" alt="Backend and data technologies" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python&amp;theme=dark" alt="Backend and data technologies" />
 
 **Languages & Web**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" alt="Programming and web technologies" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&amp;theme=dark" alt="Programming and web technologies" />
 
 **Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" alt="Developer tools" />
 
 </div>
 
@@ -65,16 +65,16 @@ I turn real-world requirements into maintainable backend systems and practical w
 
 <div align="center">
   <a href="https://github.com/nazmusshakib878/CSE4204-8A-T07-ai-smart-campus-system">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&repo=CSE4204-8A-T07-ai-smart-campus-system&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED" alt="AI Smart Campus System" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&amp;repo=CSE4204-8A-T07-ai-smart-campus-system&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563EB&amp;icon_color=7C3AED" alt="AI Smart Campus System" />
   </a>
   <a href="https://github.com/nazmusshakib878/Securex">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&repo=Securex&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED" alt="Securex" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&amp;repo=Securex&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563EB&amp;icon_color=7C3AED" alt="Securex" />
   </a>
   <a href="https://github.com/nazmusshakib878/Library-management-project">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&repo=Library-management-project&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED" alt="Library Management System" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&amp;repo=Library-management-project&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563EB&amp;icon_color=7C3AED" alt="Library Management System" />
   </a>
   <a href="https://github.com/nazmusshakib878/student-management-system">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&repo=student-management-system&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED" alt="Student Management System" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nazmusshakib878&amp;repo=student-management-system&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563EB&amp;icon_color=7C3AED" alt="Student Management System" />
   </a>
 </div>
 
@@ -91,12 +91,12 @@ I turn real-world requirements into maintainable backend systems and practical w
 ## GitHub Insights
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazmusshakib878&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&title_color=2563EB&icon_color=7C3AED" alt="GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=nazmusshakib878&hide_border=true&theme=transparent&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazmusshakib878&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github&amp;include_all_commits=true&amp;title_color=2563EB&amp;icon_color=7C3AED" alt="GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=nazmusshakib878&amp;hide_border=true&amp;theme=transparent&amp;ring=2563EB&amp;fire=7C3AED&amp;currStreakLabel=2563EB" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazmusshakib878&bg_color=transparent&color=64748B&line=2563EB&point=7C3AED&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nazmusshakib878&amp;bg_color=transparent&amp;color=64748B&amp;line=2563EB&amp;point=7C3AED&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 <picture>
@@ -119,8 +119,8 @@ I turn real-world requirements into maintainable backend systems and practical w
   <h3>Open to building useful products and learning with strong engineering teams.</h3>
   <p>
     <a href="mailto:nazmusshakib335@gmail.com">Start a conversation</a>
-    &nbsp;•&nbsp;
+    &nbsp; - &nbsp;
     <a href="https://github.com/nazmusshakib878?tab=repositories">Explore my repositories</a>
   </p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1D4ED8,100:7C3AED" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=footer&amp;color=0:0F172A,50:1D4ED8,100:7C3AED" alt="Footer" />
 </div>
