@@ -122,5 +122,9 @@ I turn real-world requirements into maintainable backend systems and practical w
     &nbsp; - &nbsp;
     <a href="https://github.com/nazmusshakib878?tab=repositories">Explore my repositories</a>
   </p>
+  ## Citation
+
+Shakib, M. N. (2026). SecureX: A CCTV & Security Service Booking and Management System — Technical Report (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21893082
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=footer&amp;color=0:0F172A,50:1D4ED8,100:7C3AED" alt="Footer" />
+  
 </div>
